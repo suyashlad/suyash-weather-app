@@ -32,7 +32,7 @@ This Weather App allows users to retrieve real-time weather information for any 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/suyashlad/weather-app.git
     ```
 
 2. **Navigate to the project directory**:
