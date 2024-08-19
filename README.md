@@ -11,8 +11,7 @@ This Weather App allows users to retrieve real-time weather information for any 
 - [Live Demo](#live-demo)
 - [Files](#files)
 - [API Key](#api-key)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+
 
 ## Features
 
